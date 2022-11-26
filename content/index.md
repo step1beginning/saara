@@ -6,21 +6,21 @@ draft: false
 
 ## Pragmatic security advice and implementation strategies for today and tomorrow ##
 
-	Technology independent insights into practice and policy
+Technology independent insights into practice and policy
 
-	Consulting and contracting to deliver pragmatic assessment and advice for 
+Consulting and contracting to deliver pragmatic assessment and advice for 
 	
-		* Federal Government agencies 
-		* those who do or would provide services to government 
+* Federal Government agencies 
+* those who do or would provide services to government 
 	
-	Experience and insights in maturity uplift and reporting using the:
- 
-		* Information Security Manual (ISM)
-		* Protective Security Policy Framework (PSPF)
-		* Essential 8 (E8)
-        
-	NV1 clearance
-	IRAP Accredited
+Experience and insights in maturity uplift and reporting using the:
+
+* Information Security Manual (ISM)
+* Protective Security Policy Framework (PSPF)
+* Essential 8 (E8)
+     
+NV1 clearance
+IRAP Accredited
 	
 If there's a philosophy in play it is *"People. The solution to, and cause of, all our challenges"*
 
