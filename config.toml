@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Security Assessment and Risk Advice"
+theme = 'hugo-fresh'
