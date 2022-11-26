@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Assessment and Risk Advice</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Security Assessment and Risk Advice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Assessment and Risk Advice</title>
+      <link>http://example.org/</link>
+      <pubDate>Sat, 26 Nov 2022 20:38:37 +1030</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>Pragmatic security advice and implementation strategies for today and tomorrow Technology independent insights into practice and policy Consulting and contracting to deliver pragmatic assessment and advice for * Federal Government agencies * those who do or would provide services to government Experience and insights in application and reporting on the: * Information Security Manual (ISM) * Protective Security Policy Framework (PSPF) * Essential 8 (E8) NV1 clearance IRAP Accredited  If there&amp;rsquo;s a philosophy in play it is &amp;ldquo;People.</description>
+    </item>
+    
+  </channel>
+</rss>

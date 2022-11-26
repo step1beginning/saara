@@ -13,7 +13,7 @@ draft: false
 		* Federal Government agencies 
 		* those who do or would provide services to government 
 	
-	Experience and insights in application and reporting on the:
+	Experience and insights in maturity uplift and reporting using the:
  
 		* Information Security Manual (ISM)
 		* Protective Security Policy Framework (PSPF)
