@@ -1,0 +1,151 @@
+baseURL: https://saara.au/
+languageCode: en-us
+title: Security Assessment and Risk Advice
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: false
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  #navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/fresh.svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Security Assessment and Risk Advice
+    # Hero subtitle (optional)
+    subtitle: Pragmatic security advice and implementation strategies for today and tomorrow
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    #clientlogos:
+    #- systek
+    #- tribe
+    #- kromo
+    #- infinite
+    #- gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+      # - title: Dropdown
+      #   sublinks:
+      #    - title: Dropdown item
+      #     url: /
+      #   - title: Dropdown item
+      #     url: /
+      #   - title: Dropdown item
+      #      url: /
+      #  - title: Log in
+      #   url: /
+      #  - title: Sign up
+      #   url: /
+      #   button: false
+      # sidebar:
+    # Logo (from /images/logos/___.svg)
+    logo: fresh-square
+    sections:
+    - title: User
+      icon: user
+      links:
+      - text: Profile
+        url: /
+      - text: Account
+        url: /
+      - text: Settings
+        url: /
+    - title: Messages
+      icon: envelope
+      links:
+      - text: Inbox
+        url: /
+      - text: Compose
+        url: /
+    - title: Images
+      icon: image
+      links:
+      - text: Library
+        url: /
+      - text: Upload
+        url: /
+    - title: Settings
+      icon: cog
+      links:
+      - text: User settings
+        url: /
+      - text: App settings
+        url: /
+  section1:
+    title: Security Maturity
+    subtitle: through pragmatic application of 
+    tiles:
+    - title: Protective Security Policy Framework
+      icon: mouse-globe
+      text: Organisational security posture review and uplift
+      url: /
+      # buttonText: Free trial
+    - title: Information Security Manual
+      icon: laptop-cloud
+      text: Systems and services assessment according to the ISM
+      url: /
+        #  buttonText: Get started
+    - title: Essential 8
+      icon: plug-cloud
+      text: Review and implementation of E8 controls
+      url: /
+        #buttonText: Get started
+        #  section2:
+      # section4:
+  section5: false
+  footer:
+    # Logo (from /images/logos/___)
+    # logo: fresh-white-alt.svg
+    # Social Media Title
+    # socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    # socialmedia:
+    #- link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      #  icon: github
+      #- link: https://dribbble.com/#
+      #  icon: dribbble
+      #- link: https://facebook.com/#
+      #  icon: facebook
+      #- link: https://twitter.com/lucperkins
+      #  icon: twitter
+      #- link: https://bitbucket.org/#
+      #  icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "2022 saara"
+        links:
+        - text: Privacy
+          link: /about
+        - text: Accessibility
+          link: /about
