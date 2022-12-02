@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Security Assessment and Risk Advice
     # Hero subtitle (optional)
-    subtitle: Pragmatic security advice and implementation strategies for Goverment and their suppliers 
+    subtitle: Pragmatic security advice and implementation strategies for Government and their suppliers 
       # Button text
     buttontext: Get started
     # Where the main hero button links to
